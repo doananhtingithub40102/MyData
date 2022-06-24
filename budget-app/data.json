@@ -65,7 +65,97 @@
       {"thoiGian": "18:52", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Canh bún"},
       {"thoiGian": "13:18", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm tép"},
       {"thoiGian": "08:30", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Bánh mì"},
-      {"thoiGian": "08:30", "quyChiTieu": "Thiết yếu", "theLoai": "Tiền trọ", "soTien": 83000, "moTa": "Tiền trọ"}
+      {"thoiGian": "08:30", "quyChiTieu": "Thiết yếu", "theLoai": "Tiền trọ", "soTien": 830000, "moTa": "Tiền trọ"}
+    ],
+    "tongChiTieu": 907000
+  },
+  {
+    "ngay": "2022-04-25",
+    "giaoDich": [
+      {"thoiGian": "18:44", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "12:54", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Nước mía"},
+      {"thoiGian": "12:54", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 18000, "moTa": "Cơm dương châu"},
+      {"thoiGian": "08:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì xào bò"}
+    ],
+    "tongChiTieu": 68000
+  },
+  {
+    "ngay": "2022-04-24",
+    "giaoDich": [
+      {"thoiGian": "18:31", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "14:35", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Cà phê sữa"},
+      {"thoiGian": "14:35", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm thịt kho trứng"},
+      {"thoiGian": "09:51", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Xôi mặn"}
+    ],
+    "tongChiTieu": 72000
+  },
+  {
+    "ngay": "2022-05-29",
+    "giaoDich": [
+      {"thoiGian": "16:37", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bánh tráng trộn"},
+      {"thoiGian": "16:37", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 13000, "moTa": "Nước cam"},
+      {"thoiGian": "16:37", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xúc xích"},
+      {"thoiGian": "10:06", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Bún xào chay"}
+    ],
+    "tongChiTieu": 73000
+  },
+  {
+    "ngay": "2022-05-28",
+    "giaoDich": [
+      {"thoiGian": "18:59", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 17000, "moTa": "Nha đam"},
+      {"thoiGian": "18:59", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Canh bún"},
+      {"thoiGian": "14:32", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm trứng chiên"},
+      {"thoiGian": "09:41", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 87000
+  },
+  {
+    "ngay": "2022-05-27",
+    "giaoDich": [
+      {"thoiGian": "18:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"},
+      {"thoiGian": "15:43", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm chả cá"},
+      {"thoiGian": "10:11", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Xôi mặn"}
+    ],
+    "tongChiTieu": 60000
+  },
+  {
+    "ngay": "2022-05-26",
+    "giaoDich": [
+      {"thoiGian": "18:51", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "12:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn kho"},
+      {"thoiGian": "12:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "08:14", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 90000
+  },
+  {
+    "ngay": "2022-05-25",
+    "giaoDich": [
+      {"thoiGian": "18:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
+      {"thoiGian": "12:37", "quyChiTieu": "Giáo dục", "theLoai": "Mua sách/tài liệu",  "soTien": 20000, "moTa": "Mua 2 bộ hồ sơ"},
+      {"thoiGian": "12:37", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 3000, "moTa": "Giữ xe"},
+      {"thoiGian": "12:37", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì xào bò"}
+    ],
+    "tongChiTieu": 63000
+  },
+  {
+    "ngay": "2022-05-24",
+    "giaoDich": [
+      {"thoiGian": "18:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "18:58", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Nước mía"},
+      {"thoiGian": "18:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm đậu hũ nhồi thịt"},
+      {"thoiGian": "09:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Mì quảng"}
+    ],
+    "tongChiTieu": 70000
+  },
+  {
+    "ngay": "2022-05-23",
+    "giaoDich": [
+      {"thoiGian": "21:25", "quyChiTieu": "Hưởng thụ", "theLoai": "Giặt sấy đồ", "soTien": 20000, "moTa": "Giặt mền, áo gối"},
+      {"thoiGian": "18:52", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Canh bún"},
+      {"thoiGian": "13:18", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm tép"},
+      {"thoiGian": "08:30", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Bánh mì"},
+      {"thoiGian": "08:30", "quyChiTieu": "Thiết yếu", "theLoai": "Tiền trọ", "soTien": 830000, "moTa": "Tiền trọ"}
     ],
     "tongChiTieu": 907000
   },
@@ -197,13 +287,13 @@
   {
     "ngay": "2022-04-13",
     "giaoDich": [
-      {"thoiGian": "19:01", "quyChiTieu": "Thiết yếu", "theLoai": "Tiền trọ", "soTien": 87000, "moTa": "Tiền trọ"},
+      {"thoiGian": "19:01", "quyChiTieu": "Thiết yếu", "theLoai": "Tiền trọ", "soTien": 870000, "moTa": "Tiền trọ"},
       {"thoiGian": "19:01", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
       {"thoiGian": "13:59", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xúc xích"},
       {"thoiGian": "09:58", "quyChiTieu": "Thiết yếu", "theLoai": "Bank",  "soTien": 3300, "moTa": "Rút tiền"},
       {"thoiGian": "09:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"}
     ],
-    "tongChiTieu": 150300
+    "tongChiTieu": 933000
   },
   {
     "ngay": "2022-04-12",
@@ -389,5 +479,463 @@
       {"thoiGian": "09:08", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bún chả"}
     ],
     "tongChiTieu": 84000
+  },
+  {
+    "ngay": "2022-03-25",
+    "giaoDich": [
+      {"thoiGian": "19:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
+      {"thoiGian": "09:57", "quyChiTieu": "Thiết yếu", "theLoai": "Đồ dùng sinh hoạt", "soTien": 16000, "moTa": "Dầu gội"},
+      {"thoiGian": "19:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm chả cá"},
+      {"thoiGian": "09:57", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:57", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 88000
+  },
+  {
+    "ngay": "2022-03-24",
+    "giaoDich": [
+      {"thoiGian": "19:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "14:54", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Trà Tắc Muối"},
+      {"thoiGian": "14:54", "quyChiTieu": "Thiết yếu", "theLoai": "Làm đẹp", "soTien": 45000, "moTa": "Hớt tóc"},
+      {"thoiGian": "14:54", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm heo quay"},
+      {"thoiGian": "08:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm bì chả"}
+    ],
+    "tongChiTieu": 124000
+  },
+  {
+    "ngay": "2022-03-23",
+    "giaoDich": [
+      {"thoiGian": "18:29", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 40000, "moTa": "Đổ xăng"},
+      {"thoiGian": "18:29", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "18:29", "quyChiTieu": "Thiết yếu", "theLoai": "Bank",  "soTien": 3300, "moTa": "Phí rút tiền"},
+      {"thoiGian": "12:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm sườn"},
+      {"thoiGian": "09:32", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:32", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 112300
+  },
+  {
+    "ngay": "2022-03-22",
+    "giaoDich": [
+      {"thoiGian": "18:48", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "14:09", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xúc xích"},
+      {"thoiGian": "09:28", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:28", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Mì quảng"}
+    ],
+    "tongChiTieu": 62000
+  },
+  {
+    "ngay": "2022-03-21",
+    "giaoDich": [
+      {"thoiGian": "18:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "18:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hoành thánh"},
+      {"thoiGian": "13:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm chả cá"},
+      {"thoiGian": "09:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bún chả"}
+    ],
+    "tongChiTieu": 87000
+  },
+  {
+    "ngay": "2022-03-20",
+    "giaoDich": [
+      {"thoiGian": "19:30", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
+      {"thoiGian": "14:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm gà xối mỡ"},
+      {"thoiGian": "13:51", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Trà không độ"},
+      {"thoiGian": "10:12", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:12", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 35000, "moTa": "Bánh, Sữa Proby"},
+      {"thoiGian": "10:12", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm bì trứng"}
+    ],
+    "tongChiTieu": 109000
+  },
+  {
+    "ngay": "2022-03-19",
+    "giaoDich": [
+      {"thoiGian": "18:35", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "12:27", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 30000, "moTa": "Cơm mực kho xả"},
+      {"thoiGian": "09:34", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:34", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 77000
+  },
+  {
+    "ngay": "2022-03-18",
+    "giaoDich": [
+      {"thoiGian": "20:33", "quyChiTieu": "Thiết yếu", "theLoai": "Sim", "soTien": 50000, "moTa": "Nạp tiền điện thoại"},
+      {"thoiGian": "20:33", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
+      {"thoiGian": "20:33", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm đậu hũ nhồi thịt"},
+      {"thoiGian": "09:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Hủ tiếu chay"}
+    ],
+    "tongChiTieu": 112000
+  },
+  {
+    "ngay": "2022-03-17",
+    "giaoDich": [
+      {"thoiGian": "19:29", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bánh canh"},
+      {"thoiGian": "13:20", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Rau má"},
+      {"thoiGian": "13:20", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm 2 ốp la"},
+      {"thoiGian": "13:20", "quyChiTieu": "Thiết yếu", "theLoai": "Bank",  "soTien": 3300, "moTa": "Phí rút tiền"},
+      {"thoiGian": "08:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 87300
+  },
+  {
+    "ngay": "2022-03-16",
+    "giaoDich": [
+      {"thoiGian": "19:03", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "12:36", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 19000, "moTa": "Nước cam, sigum"},
+      {"thoiGian": "12:36", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm gà xối mỡ"},
+      {"thoiGian": "09:34", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:34", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún chả"}
+    ],
+    "tongChiTieu": 91000
+  },
+  {
+    "ngay": "2022-03-15",
+    "giaoDich": [
+      {"thoiGian": "19:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "19:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
+      {"thoiGian": "14:06", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"},
+      {"thoiGian": "09:53", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 3000, "moTa": "Nước đá"},
+      {"thoiGian": "09:53", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 23000, "moTa": "Sữa chua Proby"},
+      {"thoiGian": "09:53", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm bì trứng"}
+    ],
+    "tongChiTieu": 111000
+  },
+  {
+    "ngay": "2022-03-14",
+    "giaoDich": [
+      {"thoiGian": "19:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "13:56", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Nước cam"},
+      {"thoiGian": "13:56", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm trứng chiên"},
+      {"thoiGian": "10:05", "quyChiTieu": "Thiết yếu", "theLoai": "Sức khỏe", "soTien": 45000, "moTa": "Khẩu trang"},
+      {"thoiGian": "10:05", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:05", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Mì quảng"}
+    ],
+    "tongChiTieu": 117000
+  },
+  {
+    "ngay": "2022-03-13",
+    "giaoDich": [
+      {"thoiGian": "21:05", "quyChiTieu": "Thiết yếu", "theLoai": "Tiền trọ", "soTien": 810000, "moTa": "Tiền trọ"},
+      {"thoiGian": "19:42", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "13:48", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Nước cam"},
+      {"thoiGian": "13:48", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm đậu hũ nhồi thịt"},
+      {"thoiGian": "09:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:23", "quyChiTieu": "Giáo dục", "theLoai": "Photo",  "soTien": 5000, "moTa": "Giấy A4"},
+      {"thoiGian": "09:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 907000
+  },
+  {
+    "ngay": "2022-03-12",
+    "giaoDich": [
+      {"thoiGian": "19:21", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "12:50", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Nước cam"},
+      {"thoiGian": "12:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm cá ngừ"},
+      {"thoiGian": "09:08", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:08", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"}
+    ],
+    "tongChiTieu": 79000
+  },
+  {
+    "ngay": "2022-03-11",
+    "giaoDich": [
+      {"thoiGian": "17:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hoành thánh"},
+      {"thoiGian": "17:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 6000, "moTa": "Nước suối"},
+      {"thoiGian": "17:45", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xíu mại"},
+      {"thoiGian": "09:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 77000
+  },
+  {
+    "ngay": "2022-03-10",
+    "giaoDich": [
+      {"thoiGian": "19:09", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bánh canh"},
+      {"thoiGian": "12:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm bò xào rau cải"},
+      {"thoiGian": "08:36", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:36", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Phở chay"}
+    ],
+    "tongChiTieu": 62000
+  },
+  {
+    "ngay": "2022-03-09",
+    "giaoDich": [
+      {"thoiGian": "18:19", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "18:19", "quyChiTieu": "Thiết yếu", "theLoai": "Bank",  "soTien": 3300, "moTa": "Phí rút tiền"},
+      {"thoiGian": "11:59", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"},
+      {"thoiGian": "09:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:23", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bún chả"}
+    ],
+    "tongChiTieu": 70300
+  },
+  {
+    "ngay": "2022-03-08",
+    "giaoDich": [
+      {"thoiGian": "19:07", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 40000, "moTa": "Đổ xăng"},
+      {"thoiGian": "19:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Nui"},
+      {"thoiGian": "18:19", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "14:06", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm chả cá"},
+      {"thoiGian": "09:40", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:40", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"}
+    ],
+    "tongChiTieu": 127000
+  },
+  {
+    "ngay": "2022-03-07",
+    "giaoDich": [
+      {"thoiGian": "18:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "13:52", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Chanh muối"},
+      {"thoiGian": "13:52", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm cá kho"},
+      {"thoiGian": "09:53", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:53", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 79000
+  },
+  {
+    "ngay": "2022-03-06",
+    "giaoDich": [
+      {"thoiGian": "19:19", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "13:31", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 10000, "moTa": "Trà Tắc"},
+      {"thoiGian": "13:31", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"},
+      {"thoiGian": "09:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:55", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Mì quảng"}
+    ],
+    "tongChiTieu": 72000
+  },
+  {
+    "ngay": "2022-03-05",
+    "giaoDich": [
+      {"thoiGian": "18:14", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống",  "soTien": 7000, "moTa": "Sigum"},
+      {"thoiGian": "18:14", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Hoành thánh"},
+      {"thoiGian": "12:29", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm heo quay"},
+      {"thoiGian": "09:30", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:30", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Phở bò"}
+    ],
+    "tongChiTieu": 61000
+  },
+  {
+    "ngay": "2022-03-04",
+    "giaoDich": [
+      {"thoiGian": "18:07", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nước cam"},
+      {"thoiGian": "18:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "18:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"},
+      {"thoiGian": "09:27", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống",  "soTien": 6000, "moTa": "Nước sâm"},
+      {"thoiGian": "09:27", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:27", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm bì chả"}
+    ],
+    "tongChiTieu": 93000
+  },
+  {
+    "ngay": "2022-03-03",
+    "giaoDich": [
+      {"thoiGian": "19:37", "quyChiTieu": "Thiết yếu", "theLoai": "Bank",  "soTien": 3300, "moTa": "Rút tiền"},
+      {"thoiGian": "19:05", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Nui"},
+      {"thoiGian": "13:59", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Bạc xỉu"},
+      {"thoiGian": "13:59", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm ốp la"},
+      {"thoiGian": "09:03", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:03", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"}
+    ],
+    "tongChiTieu": 72300
+  },
+  {
+    "ngay": "2022-03-02",
+    "giaoDich": [
+      {"thoiGian": "19:03", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "12:39", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm đậu hũ nhồi thịt"},
+      {"thoiGian": "09:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bún chả"}
+    ],
+    "tongChiTieu": 67000
+  },
+  {
+    "ngay": "2022-03-01",
+    "giaoDich": [
+      {"thoiGian": "18:26", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "14:01", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm chả cá"},
+      {"thoiGian": "10:56", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:56", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm xào trứng"}
+    ],
+    "tongChiTieu": 59000
+  },
+  {
+    "ngay": "2022-02-28",
+    "giaoDich": [
+      {"thoiGian": "21:16", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "18:00", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "13:30", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm heo quay"},
+      {"thoiGian": "09:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Phở bò"},
+      {"thoiGian": "09:47", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"}
+    ],
+    "tongChiTieu": 92000
+  },
+  {
+    "ngay": "2022-02-27",
+    "giaoDich": [
+      {"thoiGian": "18:46", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải",  "soTien": 7000, "moTa": "Giữ xe"},
+      {"thoiGian": "18:46", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 35000, "moTa": "Bún đậu mắm tôm"},
+      {"thoiGian": "18:45", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 41000, "moTa": "Pizza, Dr.Thanh, CocaCola"},
+      {"thoiGian": "08:49", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Nước mía"},
+      {"thoiGian": "08:49", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 12000, "moTa": "Cơm chay"}
+    ],
+    "tongChiTieu": 107000
+  },
+  {
+    "ngay": "2022-02-26",
+    "giaoDich": [
+      {"thoiGian": "18:03", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì tươi khô"},
+      {"thoiGian": "12:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xíu mại"},
+      {"thoiGian": "08:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 13000, "moTa": "Cơm chay"}
+    ],
+    "tongChiTieu": 60000
+  },
+  {
+    "ngay": "2022-02-25",
+    "giaoDich": [
+      {"thoiGian": "18:11", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Nước vải"},
+      {"thoiGian": "18:11", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 30000, "moTa": "Mì khô 2 gói"},
+      {"thoiGian": "18:11", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"},
+      {"thoiGian": "09:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bún xào thịt nướng"}
+    ],
+    "tongChiTieu": 92000
+  },
+  {
+    "ngay": "2022-02-24",
+    "giaoDich": [
+      {"thoiGian": "18:57", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói khô"},
+      {"thoiGian": "13:27", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm hải sản"},
+      {"thoiGian": "08:31", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:31", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm bì trứng"}
+    ],
+    "tongChiTieu": 62000
+  },
+  {
+    "ngay": "2022-02-23",
+    "giaoDich": [
+      {"thoiGian": "18:12", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "12:32", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm trứng chiên"},
+      {"thoiGian": "08:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:50", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Phở bò"}
+    ],
+    "tongChiTieu": 72000
+  },
+  {
+    "ngay": "2022-02-22",
+    "giaoDich": [
+      {"thoiGian": "19:32", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bánh canh"},
+      {"thoiGian": "19:32", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 13000, "moTa": "Nước cam, bánh snack phomai"},
+      {"thoiGian": "19:32", "quyChiTieu": "Thiết yếu", "theLoai": "Đồ dùng sinh hoạt", "soTien": 129000, "moTa": "Sữa tắm"},
+      {"thoiGian": "13:42", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm cá ngừ kho khóm"},
+      {"thoiGian": "09:31", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:31", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm"}
+    ],
+    "tongChiTieu": 201000
+  },
+  {
+    "ngay": "2022-02-21",
+    "giaoDich": [
+      {"thoiGian": "17:46", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải",  "soTien": 3000, "moTa": "Giữ xe"},
+      {"thoiGian": "17:46", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "13:25", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm da gà"},
+      {"thoiGian": "10:13", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:13", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm cá kho khóm chay"}
+    ],
+    "tongChiTieu": 65000
+  },
+  {
+    "ngay": "2022-02-20",
+    "giaoDich": [
+      {"thoiGian": "18:42", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "18:42", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "18:42", "quyChiTieu": "Hưởng thụ", "theLoai": "Ăn uống", "soTien": 13000, "moTa": "Nước trà đào, sigum"},
+      {"thoiGian": "14:32", "quyChiTieu": "Giáo dục", "theLoai": "Photo",  "soTien": 8000, "moTa": "Photo"},
+      {"thoiGian": "14:32", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm sườn"},
+      {"thoiGian": "10:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"}
+    ],
+    "tongChiTieu": 102000
+  },
+  {
+    "ngay": "2022-02-19",
+    "giaoDich": [
+      {"thoiGian": "18:15", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì gói"},
+      {"thoiGian": "12:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xúc xích"},
+      {"thoiGian": "09:19", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:19", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún riêu cua"}
+    ],
+    "tongChiTieu": 72000
+  },
+  {
+    "ngay": "2022-02-18",
+    "giaoDich": [
+      {"thoiGian": "20:00", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 50000, "moTa": "Đổ xăng"},
+      {"thoiGian": "20:00", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Nui"},
+      {"thoiGian": "14:05", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm đậu hũ nhồi thịt"},
+      {"thoiGian": "09:54", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:54", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 18000, "moTa": "Mì xào xúc xích"}
+    ],
+    "tongChiTieu": 115000
+  },
+  {
+    "ngay": "2022-02-17",
+    "giaoDich": [
+      {"thoiGian": "19:05", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "16:11", "quyChiTieu": "Thiết yếu", "theLoai": "Sim", "soTien": 52000, "moTa": "Mua sim Vietnamobile"},
+      {"thoiGian": "16:11", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm mực kho xả"},
+      {"thoiGian": "08:00", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "08:00", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Bún bò"}
+    ],
+    "tongChiTieu": 124000
+  },
+  {
+    "ngay": "2022-02-16",
+    "giaoDich": [
+      {"thoiGian": "18:29", "quyChiTieu": "Thiết yếu", "theLoai": "Sim", "soTien": 30000, "moTa": "Nạp tiền điện thoại"},
+      {"thoiGian": "18:29", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Mì tươi thịt"},
+      {"thoiGian": "12:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 22000, "moTa": "Cơm chả cá"},
+      {"thoiGian": "10:01", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống",  "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:01", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chả cá chay"}
+    ],
+    "tongChiTieu": 89000
+  },
+  {
+    "ngay": "2022-02-15",
+    "giaoDich": [
+      {"thoiGian": "18:58", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hoành thánh"},
+      {"thoiGian": "14:03", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm gà xối mỡ"},
+      {"thoiGian": "10:09", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "10:09", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 17000, "moTa": "Mì xào bò"}
+    ],
+    "tongChiTieu": 64000
+  },
+  {
+    "ngay": "2022-02-14",
+    "giaoDich": [
+      {"thoiGian": "18:01", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bánh canh"},
+      {"thoiGian": "13:43", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm cá chiên"},
+      {"thoiGian": "09:57", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 2000, "moTa": "Nước đá"},
+      {"thoiGian": "09:57", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"}
+    ],
+    "tongChiTieu": 62000
+  },
+  {
+    "ngay": "2022-02-13",
+    "giaoDich": [
+      {"thoiGian": "19:40", "quyChiTieu": "Hưởng thụ", "theLoai": "Giặt sấy đồ", "soTien": 20000, "moTa": "Giặt mền, áo gối"},
+      {"thoiGian": "19:40", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
+      {"thoiGian": "17:08", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Bình nước 20l"},
+      {"thoiGian": "17:08", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 25000, "moTa": "Cơm xúc xích"},
+      {"thoiGian": "13:03", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 30000, "moTa": "Đổ xăng"},
+      {"thoiGian": "13:03", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 5000, "moTa": "Bơm bánh xe"},
+      {"thoiGian": "13:03", "quyChiTieu": "Thiết yếu", "theLoai": "Giao thông vận tải", "soTien": 90000, "moTa": "Thay nhớt, rửa xe"},
+      {"thoiGian": "09:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Bún huế chay"},
+      {"thoiGian": "09:07", "quyChiTieu": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 2000, "moTa": "Nước đá"}
+    ],
+    "tongChiTieu": 227000
   }
 ]
