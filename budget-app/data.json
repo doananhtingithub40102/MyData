@@ -115,7 +115,7 @@
     "ngay": "2022-04-22",
     "giaoDich": [
       {"thoiGian": "18:50", "quyTaiChinh": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Hủ tiếu"},
-      {"thoiGian": "18:50", "quyTaiChinh": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 3300, "moTa": "Rút tiền"},
+      {"thoiGian": "18:50", "quyTaiChinh": "Thiết yếu", "theLoai": "Bank", "soTien": 3300, "moTa": "Rút tiền"},
       {"thoiGian": "13:38", "quyTaiChinh": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 20000, "moTa": "Cơm xúc xích"},
       {"thoiGian": "09:36", "quyTaiChinh": "Thiết yếu", "theLoai": "Ăn uống", "soTien": 15000, "moTa": "Cơm chay"}
     ],
